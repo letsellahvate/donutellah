@@ -7,6 +7,7 @@ I am a BS Mathematics major in Computer Science student. I like reading books th
 ## Leadership & Community
 
 Founder & President — [Computer Science Society BulSu 2025](https://www.facebook.com/compscietybulsu2025/)
+Campus Labs Lead Data Scientist - [Pytorch Philippines](https://www.facebook.com/pytorchph)
 
 ## Connect with Me
 
